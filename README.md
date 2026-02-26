@@ -1,4 +1,6 @@
-[Ideal Sampling.ipynb](https://github.com/user-attachments/files/25239262/Ideal.Sampling.ipynb)# Ideal, Natural, & Flat-top -Sampling
+# NAME:RITHISH S
+# REG NO:212224060216 
+# Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
